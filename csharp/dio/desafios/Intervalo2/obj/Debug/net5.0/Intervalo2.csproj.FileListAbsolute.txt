@@ -1,0 +1,16 @@
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.csproj.AssemblyReference.cache
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.AssemblyInfoInputs.cache
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.AssemblyInfo.cs
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.csproj.CoreCompileInputs.cache
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/Intervalo2
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/Intervalo2.deps.json
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/Intervalo2.runtimeconfig.json
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/Intervalo2.runtimeconfig.dev.json
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/Intervalo2.dll
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/ref/Intervalo2.dll
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/bin/Debug/net5.0/Intervalo2.pdb
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.dll
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/ref/Intervalo2.dll
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.pdb
+/home/alan/new_life/help/csharp/dio/desafios/Intervalo2/obj/Debug/net5.0/Intervalo2.genruntimeconfig.cache

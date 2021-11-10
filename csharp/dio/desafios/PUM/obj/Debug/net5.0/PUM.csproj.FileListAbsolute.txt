@@ -1,0 +1,16 @@
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.csproj.AssemblyReference.cache
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.GeneratedMSBuildEditorConfig.editorconfig
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.AssemblyInfoInputs.cache
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.AssemblyInfo.cs
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.csproj.CoreCompileInputs.cache
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/PUM
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/PUM.deps.json
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/PUM.runtimeconfig.json
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/PUM.runtimeconfig.dev.json
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/PUM.dll
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/ref/PUM.dll
+/home/alan/new_life/help/csharp/dio/desafios/PUM/bin/Debug/net5.0/PUM.pdb
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.dll
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/ref/PUM.dll
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.pdb
+/home/alan/new_life/help/csharp/dio/desafios/PUM/obj/Debug/net5.0/PUM.genruntimeconfig.cache

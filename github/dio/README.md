@@ -59,3 +59,10 @@ git config --global user.name "name"
 
 - git pull (puxa os códigos)
 - git push (empurra os códigos)
+
+# Criando Primeiro Repositório
+Criar novo repositório no git-hub
+dio-desafio
+description: desafio projeto git
+public
+add readme
